@@ -252,4 +252,4 @@ For issues, questions, or suggestions:
 
 ---
 
-Made with ❤️ and 🧬 by T. Semwa | HelixLab © 2025
+Made with ❤️ and 🧬 by T. Semwa | HelixLab © 2026
