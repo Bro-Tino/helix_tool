@@ -1,4 +1,4 @@
-# 🧬 HelixLab - DNA Sequence Analysis Tool
+#  HelixLab - DNA Sequence Analysis Tool
 
 A comprehensive, interactive DNA sequence analysis tool built with Streamlit. HelixLab provides professional-grade bioinformatics analysis with an intuitive interface and beautiful visualizations.
 
@@ -71,7 +71,7 @@ A comprehensive, interactive DNA sequence analysis tool built with Streamlit. He
 ### Step 1: Clone or Download
 ```bash
 # If using git
-git clone https://github.com/yourusername/helixlab.git
+git clone https://github.com/Bro-Tino/helixlab.git
 cd helixlab
 
 # Or download and extract the ZIP file
@@ -252,4 +252,4 @@ For issues, questions, or suggestions:
 
 ---
 
-Made with ❤️ and 🧬 by T. Semwa | HelixLab © 2026
+Made with love and  by T. Semwa | HelixLab © 2026
